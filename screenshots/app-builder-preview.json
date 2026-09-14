@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "loadstring.lua",
+      "hasCanvas": false,
+      "bodyTextLen": 1473,
+      "bodyTextHash": "1281650b5bdbc72da73e4efacec30193446106d1d74f6729de9a4c7c45da7107",
+      "bodyTextPrefix": "Scripting made possible with grok 4.6 loadstring.lua Docs ROBLOX",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "loadstring.lua",
+      "hasCanvas": false,
+      "bodyTextLen": 1473,
+      "bodyTextHash": "1281650b5bdbc72da73e4efacec30193446106d1d74f6729de9a4c7c45da7107",
+      "bodyTextPrefix": "Scripting made possible with grok 4.6 loadstring.lua Docs ROBLOX",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

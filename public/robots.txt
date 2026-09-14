@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /docs
+Allow: /docs/
+Disallow: /dashboard
+Disallow: /projects
+Disallow: /projects/
+Disallow: /settings
+Disallow: /analytics
+Disallow: /webhooks
+Disallow: /raw
+Disallow: /raw/
+Disallow: /x
+Disallow: /x/
+Disallow: /api/
